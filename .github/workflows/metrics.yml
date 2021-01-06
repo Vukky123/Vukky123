@@ -16,3 +16,9 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: Europe/Oslo
