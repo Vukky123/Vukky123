@@ -981,14 +981,14 @@
             </div>
           
             <div class="entry">
-              <span class="value">20</span>
-              <div class="bar" style="height: 29.411764705882355px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 5.88235294117647px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               13
             </div>
           
             <div class="entry">
-              <span class="value">16</span>
-              <div class="bar" style="height: 23.52941176470588px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">2</span>
+              <div class="bar" style="height: 2.941176470588235px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               14
             </div>
           
@@ -1063,8 +1063,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">36</span>
-                <div class="bar" style="height: 42.857142857142854px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">6</span>
+                <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Mon
               </div>
             
@@ -1108,19 +1108,19 @@
             
               <div class="entry">
                 <span class="name">JavaScript</span>
-                <div class="bar" style="width: 50.896%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                <span class="value">64%</span>
+                <div class="bar" style="width: 45.552%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">57%</span>
               </div>
             
               <div class="entry">
                 <span class="name">HTML</span>
-                <div class="bar" style="width: 27.776%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                <span class="value">35%</span>
+                <div class="bar" style="width: 32.88%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">41%</span>
               </div>
             
               <div class="entry">
                 <span class="name">CSS</span>
-                <div class="bar" style="width: 1.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 1.568%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">2%</span>
               </div>
             
@@ -1194,7 +1194,7 @@
                   
                   <div class="name">
                     <span>DevSnowflake/canvacord</span>
-                    <span>starred 23 hours ago</span>
+                    <span>starred 24 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1387,7 +1387,7 @@
           
             <span>These metrics do not include all private contributions, timezone Europe/Oslo</span>
           
-          <span>Last updated Mon, 08 Feb 2021 12:18:48 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Mon, 08 Feb 2021 13:13:38 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
