@@ -993,8 +993,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 2.7777777777777777px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               15
             </div>
           
@@ -1081,8 +1081,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">20</span>
-                <div class="bar" style="height: 23.809523809523807px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">18</span>
+                <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Thu
               </div>
             
@@ -1108,14 +1108,8 @@
             
               <div class="entry">
                 <span class="name">JavaScript</span>
-                <div class="bar" style="width: 57.96%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                <span class="value">72%</span>
-              </div>
-            
-              <div class="entry">
-                <span class="name">HTML</span>
-                <div class="bar" style="width: 22.040000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                <span class="value">28%</span>
+                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">100%</span>
               </div>
             
           </div>
@@ -1381,7 +1375,7 @@
           
             <span>These metrics do not include all private contributions, timezone Europe/Oslo</span>
           
-          <span>Last updated Thu, 11 Feb 2021 14:14:44 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Thu, 11 Feb 2021 15:14:00 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
