@@ -1455,15 +1455,15 @@
             
               
                 <div class="tweet">
-                  <span class="mention">@SamNChiet</span> No
+                  <span class="mention">@twater</span> Hello
                   
-                  <div class="date">14:03 on 28/03/2021</div>
+                  <div class="date">07:43 on 30/03/2021</div>
                 </div>
               
                 <div class="tweet">
-                  <span class="mention">@SamNChiet</span> Shittypets
+                  <span class="mention">@SamNChiet</span> No
                   
-                  <div class="date">13:55 on 28/03/2021</div>
+                  <div class="date">14:03 on 28/03/2021</div>
                 </div>
               
             
@@ -1952,7 +1952,7 @@
           
             <span>These metrics include private contributions, timezone Europe/Oslo</span>
           
-          <span>Last updated Tue, 30 Mar 2021 05:09:12 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Tue, 30 Mar 2021 06:05:33 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
