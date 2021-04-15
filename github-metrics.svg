@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1931" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1947" class="">
     <defs>
         <style/>
     </defs>
@@ -1494,6 +1494,23 @@
                             vukky_ltd
                         </div>
                         <div class="tweet">
+                            <span class="mention">
+                                @andrea88468400
+                            </span>
+                            <span class="mention">
+                                @Marta12177738
+                            </span>
+                            <span class="mention">
+                                @dreamhangout_
+                            </span>
+                            <span class="link">
+                                en.wikipedia.org/wiki/Community…
+                            </span>
+                            <div class="date">
+                                11:15 on 15/04/2021
+                            </div>
+                        </div>
+                        <div class="tweet">
                             <span class="hashtag">
                                 #Splatoon2
                             </span>
@@ -1505,15 +1522,6 @@
                             </span>
                             <div class="date">
                                 12:12 on 14/04/2021
-                            </div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">
-                                @spongecaps2
-                            </span>
-                            krappy patty krabby patty
-                            <div class="date">
-                                09:39 on 14/04/2021
                             </div>
                         </div>
                     </section>
@@ -2070,7 +2078,7 @@
                     These metrics include private contributions, timezone Europe/Oslo
                 </span>
                 <span>
-                    Last updated Thu, 15 Apr 2021 09:04:38 GMT with lowlighter/metrics@3.6.0
+                    Last updated Thu, 15 Apr 2021 10:04:44 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
