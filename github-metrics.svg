@@ -2061,36 +2061,36 @@
                                 <span class="name">
                                     userscripts
                                 </span>
-                                <div class="bar" style="width: 57.44800000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 49.56%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">
-                                    72%
-                                </span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">
-                                    vukkysite
-                                </span>
-                                <div class="bar" style="width: 9.048%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">
-                                    11%
-                                </span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">
-                                    VukkyBot
-                                </span>
-                                <div class="bar" style="width: 7.951999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">
-                                    10%
+                                    62%
                                 </span>
                             </div>
                             <div class="entry">
                                 <span class="name">
                                     Unknown Project
                                 </span>
-                                <div class="bar" style="width: 5.5520000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 11.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">
-                                    7%
+                                    15%
+                                </span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">
+                                    vukkysite
+                                </span>
+                                <div class="bar" style="width: 9.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">
+                                    12%
+                                </span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">
+                                    VukkyBot
+                                </span>
+                                <div class="bar" style="width: 8.728%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">
+                                    11%
                                 </span>
                             </div>
                         </div>
@@ -2102,7 +2102,7 @@
                     These metrics include private contributions, timezone Europe/Oslo
                 </span>
                 <span>
-                    Last updated Fri, 16 Apr 2021 22:04:56 GMT with lowlighter/metrics@3.7.0
+                    Last updated Fri, 16 Apr 2021 23:04:47 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
