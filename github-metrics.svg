@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1947" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1964" class="">
     <defs>
         <style/>
     </defs>
@@ -1494,6 +1494,16 @@
                             vukky_ltd
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">
+                                @Reggie
+                            </span>
+                            : Mother 3 English version. Every time I think it’s time to play it, I get trolled and decide to put it off. Maybe I will fire it…
+                            <div class="date">
+                                10:37 on 16/04/2021
+                            </div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">
                                 @ImagesFalling
                             </span>
@@ -1503,15 +1513,6 @@
                             </span>
                             <div class="date">
                                 21:07 on 15/04/2021
-                            </div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">
-                                @itchdude
-                            </span>
-                            ok
-                            <div class="date">
-                                20:50 on 15/04/2021
                             </div>
                         </div>
                     </section>
@@ -2068,7 +2069,7 @@
                     These metrics include private contributions, timezone Europe/Oslo
                 </span>
                 <span>
-                    Last updated Fri, 16 Apr 2021 08:05:24 GMT with lowlighter/metrics@3.6.0
+                    Last updated Fri, 16 Apr 2021 09:05:14 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
