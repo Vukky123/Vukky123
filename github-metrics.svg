@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1803" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1814" class="">
     <defs>
         <style/>
     </defs>
@@ -1087,7 +1087,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 68 repositories
+                            Contributed to 69 repositories
                         </div>
                     </section>
                 </div>
@@ -1104,7 +1104,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        1509 Commits
+                        1511 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1202,7 +1202,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                             </svg>
-                            20.5 MB used
+                            20.7 MB used
                         </div>
                     </section>
                     <section>
@@ -1358,8 +1358,10 @@
                         17
                     </div>
                     <div class="entry">
-                        <span class="value"></span>
-                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        <span class="value">
+                            2
+                        </span>
+                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         18
                     </div>
                     <div class="entry">
@@ -1405,7 +1407,7 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">
-                                23
+                                25
                             </span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Sun
@@ -1414,21 +1416,21 @@
                             <span class="value">
                                 4
                             </span>
-                            <div class="bar" style="height: 8.695652173913043px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 8px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
                             <span class="value">
                                 2
                             </span>
-                            <div class="bar" style="height: 4.3478260869565215px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 4px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
                             <span class="value">
                                 9
                             </span>
-                            <div class="bar" style="height: 19.565217391304348px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 18px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
@@ -1440,7 +1442,7 @@
                             <span class="value">
                                 6
                             </span>
-                            <div class="bar" style="height: 13.043478260869565px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 12px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Fri
                         </div>
                         <div class="entry">
@@ -1459,27 +1461,45 @@
                             <span class="name">
                                 JavaScript
                             </span>
-                            <div class="bar" style="width: 73.49600000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 69.512%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">
-                                92%
+                                87%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 HTML
                             </span>
-                            <div class="bar" style="width: 4.736000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.328%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
-                                6%
+                                5%
+                            </span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">
+                                EJS
+                            </span>
+                            <div class="bar" style="width: 4.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">
+                                5%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 PowerShell
                             </span>
-                            <div class="bar" style="width: 1.7679999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.6159999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 2%
+                            </span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">
+                                CSS
+                            </span>
+                            <div class="bar" style="width: 0.528%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">
+                                1%
                             </span>
                         </div>
                     </div>
@@ -1596,7 +1616,7 @@
                                             TerryCavanagh/chatchat
                                         </span>
                                         <span>
-                                            starred 14 days ago
+                                            starred 15 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -1654,7 +1674,7 @@
                                             TerryCavanagh/VVVVVV
                                         </span>
                                         <span>
-                                            starred 14 days ago
+                                            starred 15 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -1774,6 +1794,68 @@
                                     <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">
+                                            WalkyLtd/WalkyClicker
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            main
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #55fb344
+                                        </span>
+                                        <span class="message">
+                                            lotza wacky stuff (0.2.0)
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            WalkyLtd/WalkyClicker
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            main
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #9084115
+                                        </span>
+                                        <span class="message">
+                                            i'm sorry but it absolutely refused to start lol
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
                                             Vukky123/cloudsyncy
                                         </span>
                                     </div>
@@ -1858,159 +1940,95 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            Vukky123/cloudsyncy
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            main
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #558604d
-                                        </span>
-                                        <span class="message">
-                                            wipe before copy
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
+                    </section>
+                </div>
+            </section>
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M2.75 1a.75.75 0 000 1.5h.75v1.25a4.75 4.75 0 001.9 3.8l.333.25c.134.1.134.3 0 .4l-.333.25a4.75 4.75 0 00-1.9 3.8v1.25h-.75a.75.75 0 000 1.5h10.5a.75.75 0 000-1.5h-.75v-1.25a4.75 4.75 0 00-1.9-3.8l-.333-.25a.25.25 0 010-.4l.333-.25a4.75 4.75 0 001.9-3.8V2.5h.75a.75.75 0 000-1.5H2.75zM11 2.5H5v1.25a3.25 3.25 0 001.3 2.6l.333.25c.934.7.934 2.1 0 2.8l-.333.25a3.25 3.25 0 00-1.3 2.6v1.25h6v-1.25a3.25 3.25 0 00-1.3-2.6l-.333-.25a1.75 1.75 0 010-2.8l.333-.25a3.25 3.25 0 001.3-2.6V2.5z"/>
+                    </svg>
+                    WakaTime (over last week)
+                </h2>
+                <div class="row">
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
+                            </svg>
+                            ~7 coding hours recorded
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            Vukky123/cloudsyncy
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            main
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #f4439c5
-                                        </span>
-                                        <span class="message">
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                                Initial commit
-                                            
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                            </svg>
+                            Working on BD
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
+                            </svg>
+                            ~2 hours of coding per day
                         </div>
                     </section>
                 </div>
-                <section>
-                    <h2 class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M2.75 1a.75.75 0 000 1.5h.75v1.25a4.75 4.75 0 001.9 3.8l.333.25c.134.1.134.3 0 .4l-.333.25a4.75 4.75 0 00-1.9 3.8v1.25h-.75a.75.75 0 000 1.5h10.5a.75.75 0 000-1.5h-.75v-1.25a4.75 4.75 0 00-1.9-3.8l-.333-.25a.25.25 0 010-.4l.333-.25a4.75 4.75 0 001.9-3.8V2.5h.75a.75.75 0 000-1.5H2.75zM11 2.5H5v1.25a3.25 3.25 0 001.3 2.6l.333.25c.934.7.934 2.1 0 2.8l-.333.25a3.25 3.25 0 00-1.3 2.6v1.25h6v-1.25a3.25 3.25 0 00-1.3-2.6l-.333-.25a1.75 1.75 0 010-2.8l.333-.25a3.25 3.25 0 001.3-2.6V2.5z"/>
-                        </svg>
-                        WakaTime (over last week)
-                    </h2>
-                    <div class="row">
-                        <section>
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
-                                </svg>
-                                ~7 coding hours recorded
+                <div class="row">
+                    <section class="column chart">
+                        <h3>
+                            Projects activity
+                        </h3>
+                        <div class="chart-bars horizontal">
+                            <div class="entry">
+                                <span class="name">
+                                    BD
+                                </span>
+                                <div class="bar" style="width: 31.200000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">
+                                    39%
+                                </span>
                             </div>
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                </svg>
-                                Working on BD
+                            <div class="entry">
+                                <span class="name">
+                                    cloudsyncy
+                                </span>
+                                <div class="bar" style="width: 22.519999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">
+                                    28%
+                                </span>
                             </div>
-                        </section>
-                        <section>
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
-                                </svg>
-                                ~2 hours of coding per day
+                            <div class="entry">
+                                <span class="name">
+                                    website
+                                </span>
+                                <div class="bar" style="width: 9.719999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">
+                                    12%
+                                </span>
                             </div>
-                        </section>
-                    </div>
-                    <div class="row">
-                        <section class="column chart">
-                            <h3>
-                                Projects activity
-                            </h3>
-                            <div class="chart-bars horizontal">
-                                <div class="entry">
-                                    <span class="name">
-                                        BD
-                                    </span>
-                                    <div class="bar" style="width: 31.200000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                    <span class="value">
-                                        39%
-                                    </span>
-                                </div>
-                                <div class="entry">
-                                    <span class="name">
-                                        cloudsyncy
-                                    </span>
-                                    <div class="bar" style="width: 22.519999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                    <span class="value">
-                                        28%
-                                    </span>
-                                </div>
-                                <div class="entry">
-                                    <span class="name">
-                                        website
-                                    </span>
-                                    <div class="bar" style="width: 9.719999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                    <span class="value">
-                                        12%
-                                    </span>
-                                </div>
-                                <div class="entry">
-                                    <span class="name">
-                                        VukkyBot
-                                    </span>
-                                    <div class="bar" style="width: 6.904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                    <span class="value">
-                                        9%
-                                    </span>
-                                </div>
+                            <div class="entry">
+                                <span class="name">
+                                    VukkyBot
+                                </span>
+                                <div class="bar" style="width: 6.904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">
+                                    9%
+                                </span>
                             </div>
-                        </section>
-                    </div>
-                </section>
-                <footer>
-                    <span>
-                        These metrics include private contributions, timezone Europe/Oslo
-                    </span>
-                    <span>
-                        Last updated Sun, 25 Apr 2021 16:06:41 GMT with lowlighter/metrics@3.7.0
-                    </span>
-                </footer>
-                <div id="metrics-end"></div>
+                        </div>
+                    </section>
+                </div>
             </section>
+            <footer>
+                <span>
+                    These metrics include private contributions, timezone Europe/Oslo
+                </span>
+                <span>
+                    Last updated Sun, 25 Apr 2021 17:22:24 GMT with lowlighter/metrics@3.7.0
+                </span>
+            </footer>
+            <div id="metrics-end"></div>
         </div>
     </foreignObject>
 </svg>
