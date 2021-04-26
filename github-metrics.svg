@@ -1068,7 +1068,7 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
@@ -1077,7 +1077,7 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
@@ -1104,7 +1104,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        1426 Commits
+                        1432 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1202,7 +1202,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                             </svg>
-                            26.3 MB used
+                            26.5 MB used
                         </div>
                     </section>
                     <section>
@@ -1357,15 +1357,17 @@
                         16
                     </div>
                     <div class="entry">
-                        <span class="value"></span>
-                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        <span class="value">
+                            1
+                        </span>
+                        <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         17
                     </div>
                     <div class="entry">
                         <span class="value">
-                            2
+                            7
                         </span>
-                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 17.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         18
                     </div>
                     <div class="entry">
@@ -1418,9 +1420,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                9
+                                15
                             </span>
-                            <div class="bar" style="height: 17.307692307692307px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 28.846153846153843px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
@@ -1465,34 +1467,34 @@
                             <span class="name">
                                 JavaScript
                             </span>
-                            <div class="bar" style="width: 58.168%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 50.664%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">
-                                73%
-                            </span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">
-                                EJS
-                            </span>
-                            <div class="bar" style="width: 14.863999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">
-                                19%
+                                63%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 HTML
                             </span>
-                            <div class="bar" style="width: 3.8240000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 13.655999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
-                                5%
+                                17%
+                            </span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">
+                                EJS
+                            </span>
+                            <div class="bar" style="width: 12.943999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">
+                                16%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 CSS
                             </span>
-                            <div class="bar" style="width: 1.7120000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.4880000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 2%
                             </span>
@@ -1501,7 +1503,7 @@
                             <span class="name">
                                 PowerShell
                             </span>
-                            <div class="bar" style="width: 1.432%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.248%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 2%
                             </span>
@@ -1798,7 +1800,7 @@
                                     <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">
-                                            Vukky123/life-improvers
+                                            Vukky123/website
                                         </span>
                                     </div>
                                 </div>
@@ -1811,10 +1813,10 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #4df5932
+                                            #71b8301
                                         </span>
                                         <span class="message">
-                                            Update vukkyfilt.txt
+                                            Update index.html
                                         </span>
                                     </div>
                                 </div>
@@ -1829,7 +1831,7 @@
                                     <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">
-                                            Vukky123/life-improvers
+                                            Vukky123/website
                                         </span>
                                     </div>
                                 </div>
@@ -1842,10 +1844,10 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #93fea1e
+                                            #911f25c
                                         </span>
                                         <span class="message">
-                                            Update vukkyfilt.txt
+                                            Update index.html
                                         </span>
                                     </div>
                                 </div>
@@ -1860,7 +1862,7 @@
                                     <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">
-                                            Vukky123/life-improvers
+                                            Vukky123/website
                                         </span>
                                     </div>
                                 </div>
@@ -1873,10 +1875,10 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #f5e4d04
+                                            #6eb0c1a
                                         </span>
                                         <span class="message">
-                                            Update vukkyfilt.txt
+                                            Update index.html
                                         </span>
                                     </div>
                                 </div>
@@ -1891,7 +1893,7 @@
                                     <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">
-                                            Vukky123/life-improvers
+                                            Vukky123/website
                                         </span>
                                     </div>
                                 </div>
@@ -1904,10 +1906,10 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #58d376e
+                                            #c79386a
                                         </span>
                                         <span class="message">
-                                            Update vukkyfilt.txt
+                                            Update index.html
                                         </span>
                                     </div>
                                 </div>
@@ -1922,7 +1924,7 @@
                                     <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">
-                                            Vukky123/life-improvers
+                                            Vukky123/website
                                         </span>
                                     </div>
                                 </div>
@@ -1935,10 +1937,10 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #d11a33c
+                                            #01a2932
                                         </span>
                                         <span class="message">
-                                            Update vukkyfilt.txt
+                                            vukkies
                                         </span>
                                     </div>
                                 </div>
@@ -2029,7 +2031,7 @@
                     These metrics include private contributions, timezone Europe/Oslo
                 </span>
                 <span>
-                    Last updated Mon, 26 Apr 2021 15:05:02 GMT with lowlighter/metrics@3.7.0
+                    Last updated Mon, 26 Apr 2021 16:06:58 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
