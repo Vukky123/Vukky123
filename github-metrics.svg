@@ -1837,17 +1837,12 @@ Co-authored-by: Vukky &lt;46850780+Vukky123@users.noreply.github.com&gt;</span>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">2480600098</span>
-                                <div class="bar" style="width: 73.512%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">92%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">vukkysite</span>
-                                <div class="bar" style="width: 6.168%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 79.648%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">100%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">wikipedia-contributions-poster</span>
-                                <div class="bar" style="width: 0.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.35200000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2018,7 +2013,7 @@ Co-authored-by: Vukky &lt;46850780+Vukky123@users.noreply.github.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="110.64475628694191 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="110.65364993539129 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2460,7 +2455,7 @@ Co-authored-by: Vukky &lt;46850780+Vukky123@users.noreply.github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Thu, 24 Jun 2021 00:13:35 (timezone Europe/Oslo) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 24 Jun 2021 01:13:54 (timezone Europe/Oslo) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
