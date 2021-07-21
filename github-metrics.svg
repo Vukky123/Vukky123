@@ -1313,9 +1313,9 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 37.5 characters per line of code written</li>
+                        <li>Has approximately 36.3 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
-                        <li>Mostly active on Wednesday</li>
+                        <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
             </section>
@@ -1433,13 +1433,13 @@
               21
             </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               22
             </div>
                     <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               23
             </div>
                 </div>
@@ -1450,7 +1450,7 @@
                     <div class="chart-bars">
                         <div class="entry">
                 <span class="value">4</span>
-                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
@@ -1464,18 +1464,18 @@
                 Tue
               </div>
                         <div class="entry">
-                <span class="value">10</span>
-                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">3</span>
+                <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
                 <span class="value">1</span>
-                <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
                 <span class="value">1</span>
-                <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
@@ -1490,18 +1490,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 69.54400000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">87%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">HTML</span>
-                            <div class="bar" style="width: 7.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">10%</span>
+                            <div class="bar" style="width: 77.15199999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">96%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Kotlin</span>
-                            <div class="bar" style="width: 2.5679999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">3%</span>
+                            <div class="bar" style="width: 2.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4%</span>
                         </div>
                     </div>
                 </section>
@@ -1542,7 +1537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Nv7-GitHub/Nv7Haven</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1907,7 +1902,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="75.02 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="75.144 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1935,7 +1930,7 @@
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 7420 stars</div>
+                                <div class="text">Maintaining a repository with 7424 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2056,7 +2051,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="116.5730838534532 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="116.58171771372399 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2461,7 +2456,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Wed, 21 Jul 2021 22:19:07 (timezone Europe/Oslo) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Wed, 21 Jul 2021 23:17:40 (timezone Europe/Oslo) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
