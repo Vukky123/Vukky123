@@ -1903,7 +1903,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.903 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.872 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1931,7 +1931,7 @@
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 7513 stars</div>
+                                <div class="text">Maintaining a repository with 7512 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2052,7 +2052,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="116.80289757998794 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="116.81166655901193 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2320,7 +2320,7 @@
                   Inspirationer
                   
                     <span class="gh">
-                      ranked 3.54m out of 238m repositories
+                      ranked 3.55m out of 238m repositories
                     </span>
                   
                 </div>
@@ -2457,7 +2457,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Fri, 23 Jul 2021 00:17:42 (timezone Europe/Oslo) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 23 Jul 2021 01:17:10 (timezone Europe/Oslo) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
